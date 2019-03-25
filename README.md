@@ -1,5 +1,5 @@
 # React-Flux
-<<<<<<< HEAD
+
 React实现Flux架构开发模式
 ## 目录结构
 ```
@@ -16,4 +16,5 @@ React实现Flux架构开发模式
 └── README.md                  
 └── webpack.config.js  
 ``` 
+Flux是一种架构思想，专门解决软件的结构问题，它跟MVC架构是同一类东西，但是更加简单和清晰。
 ![](https://user-gold-cdn.xitu.io/2019/3/25/169b4d6a56ee3b0c?w=602&h=174&f=png&s=16756)
