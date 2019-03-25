@@ -1,6 +1,14 @@
 # React-Flux
-
 React实现Flux架构开发模式
+## 使用
+下载
+> git clone https://github.com/hubvue/React-Flux.git
+
+使用
+> npm install
+> npm run dev:server
+
+
 ## 目录结构
 ```
 ├──src
