@@ -1,4 +1,5 @@
 # React-Flux
+<<<<<<< HEAD
 React实现Flux架构开发模式
 ## 目录结构
 ```
