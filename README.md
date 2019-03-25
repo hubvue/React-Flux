@@ -1,2 +1,4 @@
 # React-Flux
-React实现Flux架构开发模式
+React实现简单Flux架构开发模式
+
+
